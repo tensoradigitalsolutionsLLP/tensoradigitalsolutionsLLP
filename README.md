@@ -1,16 +1,19 @@
-## Hi there 👋
+# TENSORA DIGITAL SOLUTIONS
 
-<!--
-**tensoradigitalsolutionsLLP/tensoradigitalsolutionsLLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Create. Connect. Grow.
 
-Here are some ideas to get you started:
+**TENSORA DIGITAL SOLUTIONS** delivers innovative digital and technology solutions that transform ideas into impactful experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Our Services**
+- Web & App Development
+- Game Development
+- UI/UX & Graphic Design
+- 3D Modelling
+- Photo & Video Editing
+- Hosting & Server Solutions
+- Engineering projects
+
+> **Turning Ideas Into Reality.**
+
+📧 tensora26llp@gmail.com  
+🌐 www.tensoradigitalsolutions.in 
